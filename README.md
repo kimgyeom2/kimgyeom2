@@ -17,3 +17,5 @@
 
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=kimgyeom2&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
+
+![Anurag's GitHub stats](https://github-readme-Repo Card.vercel.app/api?username=kimgyeom2&show_icons=true&theme=flag-india&hide=issues,contribs&count_private=true&card_width=528)
