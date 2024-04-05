@@ -4,15 +4,15 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimgyeom2&2Fhit-counter&count_bg=%23357E15&title_bg=%23357E15&icon=waze.svg&icon_color=%23FFFFFF&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Blog)](https://velog.io/@kg5832) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimgyeom2&layout=compact&card_width=525px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimgyeom2&layout=compact&card_width=528px)
 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgyeom2&show_icons=true&theme=flag-india&hide=issues,contribs&count_private=true&card_width=525)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgyeom2&show_icons=true&theme=flag-india&hide=issues,contribs&count_private=true&card_width=528)
 
 
-![Anurag's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=kimgyeom2&card_width=525px)
+![Anurag's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=kimgyeom2&card_width=528px)
 
 
 
