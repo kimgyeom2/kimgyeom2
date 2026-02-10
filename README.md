@@ -52,13 +52,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kimgyeom2&show_icons=true&theme=transparent&hide_border=true&rank_icon=percentile" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgyeom2&layout=compact&theme=transparent&hide_border=true&langs_count=6" width="48%"/>
-
 <br>
 
-**🔥 2026년 연속 기여 기록** 
-![GitHub Stats](https://github-readme-stats-indol-omega-50.vercel.app/api?username=kimgyeom2&show_icons=true&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats-olive.vercel.app/?user=kimgyeom2)
 
 </div>
 
