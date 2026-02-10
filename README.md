@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# ✨ Gyeom
+# ✨ Kim Gyeom
 
 **Android Developer | SpringBoot**
 
@@ -17,26 +17,28 @@
 
 - ☁️ Android Hybrid APP Developer Training  
   <sub>2022-12-30 ~ 2023-06-15</sub>
-- ☀️ JHC Company Developer  
+- ☀️ JHC Company Android Developer  
   <sub>2023.07.02 ~ 2025.11.30</sub>
 
-> 예쁜 코드와 유려한 UI를 좋아합니다.  
-> 사용성과 확장성 모두를 고려한 감각적인 개발을 추구합니다.
+> 트렌디하고 깔끔한 UI를 좋아합니다.  
+> 사용성과 확장성 모두를 고려한 효율적인 구조를 추구합니다.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Android & Frontend
+### Android
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
-### Backend
+### Backend & Cloud
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -55,7 +57,8 @@
 
 <br>
 
-**🔥 2026년 연속 기여 기록** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kimgyeom2&theme=transparent&hide_border=true)
+**🔥 2026년 연속 기여 기록** 
+![GitHub Stats](https://github-readme-stats-indol-omega-50.vercel.app/api?username=kimgyeom2&show_icons=true&theme=transparent&hide_border=true)
 
 </div>
 
