@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# ✨ Kim Gyeom
-
 **Android Developer | SpringBoot**
 
 [![Velog](https://img.shields.io/badge/Velog-BLOG-11B48A?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@kg5832/posts)
