@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Android Developer | SpringBoot**
+**Android Developer**
 
 [![Velog](https://img.shields.io/badge/Velog-BLOG-11B48A?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@kg5832/posts)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kimgyeom2)
