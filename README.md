@@ -29,9 +29,9 @@
 
 ### Android
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Flow](https://img.shields.io/badge/Flow-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
@@ -58,7 +58,7 @@
 <br>
 
 **🔥 2026년 연속 기여 기록** 
-![GitHub Stats](https://github-readme-stats-indol-omega-50.vercel.app/api?username=kimgyeom2&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats-indol-omega-50.vercel.app/api?username=kimgyeom2&show_icons=true&theme=transparent)
 
 </div>
 
